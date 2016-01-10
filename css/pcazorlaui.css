@@ -1,0 +1,60 @@
+h2 {
+  font-size: 14pt;
+  color:#519AD6;
+}
+
+h3{
+	color:#519AD6;
+}
+.basic-data-list li .icon {
+	color:#519AD6;
+}
+.summary-content {  left: 45%;right: 4%;}
+
+.resume .partial1 {
+  margin-bottom: 3em;
+}
+.resume .partial2 {
+  padding-right: 2em;
+}
+.resume .partial3 {
+  padding-left: 2em;
+}
+.laboral{
+	margin-bottom: 3em
+}
+.skills{
+margin-bottom: 2em;
+}
+.skills li{
+	height: 20px;
+}
+.skills li h5{
+	font-size: 9pt;
+	height: 20px;
+	line-height: 20px;
+	float: left;
+	width: 36%;
+}
+.skills li .bar{
+	height: 10px;
+	margin-top: 5px;
+	float: left;
+	width: 64%;
+	position: relative;
+}
+.skills li .bar div{
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	background-color: #B3CBDE;
+}
+footer{
+	xcolor:#519AD6;
+}
+@media print {
+  footer{
+	  margin-top: 50px;
+	}
+}

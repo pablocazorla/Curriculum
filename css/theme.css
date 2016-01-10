@@ -1,0 +1,116 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700,300);
+body {
+  font-family: 'Raleway', sans-serif;
+  color: #333;
+}
+.page-content {}
+.summary {
+  position: relative;
+}
+.summary-content {
+  position: absolute;
+  top: 0;
+  left: 47%;
+  right: 0;
+  bottom: 0;
+  padding: 50px 30px 0 0;
+  overflow: hidden;
+}
+.portrait {
+  overflow: hidden;
+  max-height: 280px;
+}
+.portrait img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+h1 {
+  text-transform: uppercase;
+  font-size: 24pt;
+  line-height: 1.2;
+  letter-spacing: -0.4pt;
+}
+h2 {
+  font-weight: 300;
+  text-transform: uppercase;
+  font-size: 16pt;
+  color: #666;
+}
+.basic-data-list {
+  margin-top: 5em;
+}
+.basic-data-list li {
+  float: left;
+  width: 50%;
+  display: block;
+  font-size: 9pt;
+  line-height: 1;
+  position: relative;
+  padding: 8px 10px 0 40px;
+  min-height: 40px;
+}
+.basic-data-list li .icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  background-color: #FFF;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 50%;
+}
+.resume {
+  padding: 2em 3em;
+}
+.item-list {
+  list-style: disc outside none;
+  padding-left: 1em;
+}
+.item-list li {
+  margin-bottom: .8em;
+}
+.resume .partial1 {
+  margin-bottom: 2em;
+}
+.resume .partial2 {
+  float: left;
+  width: 50%;
+  padding-right: 1em;
+}
+.resume .partial3 {
+  float: left;
+  width: 50%;
+  padding-left: 1em;
+}
+h3 {
+  text-transform: uppercase;
+  font-size: 18pt;
+  line-height: 1.2;
+  letter-spacing: -0.4pt;
+  color: #666;
+  margin-bottom: .5em;
+}
+h4 {
+  font-weight: bold;
+}
+
+footer{
+  background-color: #F0F0F0;
+  text-align: center;
+  font-size: 8pt;
+  line-height: 1;
+  padding: 1em 0;
+  color:#555;
+}
+footer .fa{
+ vertical-align: middle;
+ margin-right: 3px;
+}
+@media print {
+  .resume {
+    padding-bottom: 0;
+  }
+}
