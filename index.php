@@ -50,13 +50,17 @@
 					<h3>Experiencia laboral</h3>
 					<ul class="item-list laboral">
 						<li>
+							<h4>Llopart Inmobiliaria (2016)</h4>
+							<p>Secretaria administrativa en inmobiliaria. Mendoza.</p>
+						</li>
+						<li>
 							<h4>Flebosalud (2015)</h4>
 							<p>Recepcionista, atención telefónica, expedición de recetas, uso de sistema TIEMPO. Mendoza.</p>
 						</li>
 						<li>
 							<h4>Van Ditmar Propiedades (2013-2015)</h4>
-							<p>Secretaria Administrativa en inmobiliaria. Mendoza.</p>
-							<p>Referencia: Alejandro Van Ditmar (4259175).</p>
+							<p>Secretaria administrativa en inmobiliaria. Mendoza.</p>
+							<p>Referencia: Alejandro Van Ditmar (261-4259175 / 261-6061240).</p>
 						</li>
 						<li>
 							<h4>Parque Jardín Mendoza, Cementerio Privado (2012)</h4>
@@ -74,7 +78,7 @@
 							<h4>Hair Equipe Peluqueros (2006-2008)</h4>
 							<p>Recepción y atención telefónica de clientes, herramientas informáticas y manejo de dinero.</p>
 						</li>
-						<li>
+						<li style="display:none">
 							<h4>Atomo Supermercados- Millan S.A. (2003-2005)</h4>
 							<p>Cajera Repositora, llegando a ocupar el puesto de sub-encargada de bazar.</p>
 						</li>
