@@ -1,3 +1,6 @@
+body{
+	font:13pt/1.5em 'Open Sans',sans-serif;
+}
 h2 {
   font-size: 14pt;
   color:#519AD6;
@@ -9,9 +12,7 @@ h3{
 .basic-data-list li .icon {
 	color:#519AD6;
 }
-.summary-content {  left: 45%;right: 4%;font-weight: bold !important;}
-.summary-content h1{  font-weight: bold !important;}
-.summary-content h2{  font-weight: bold !important;}
+.summary-content {  left: 45%;right: 4%;}
 
 .resume .partial1 {
   margin-bottom: 3em;
@@ -53,10 +54,24 @@ margin-bottom: 2em;
 	background-color: #B3CBDE;
 }
 footer{
-	xcolor:#519AD6;
+	//background-color:#FFF;
+	margin-top: 60px;
 }
-@media print {
-  footer{
-	  margin-top: 50px;
-	}
+
+.resume .partial2 {
+  float: none;
+  width: 100%;
+  padding-right: 0;
 }
+
+ul.laboral li{
+	margin-bottom: 30px;
+}
+.summary{
+	margin-bottom: 25px;
+}
+
+.basic-data-list{
+margin-top: 3em;
+}
+

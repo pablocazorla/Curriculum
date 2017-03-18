@@ -13,14 +13,14 @@
 	<link type="text/css" rel="stylesheet" href="css/style.css">
 	<link type="text/css" rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
 	<link type="text/css" rel="stylesheet" href="css/theme.css">
-	<link type="text/css" rel="stylesheet" href="css/pcazorlaui.css">
+	<link type="text/css" rel="stylesheet" href="css/pcazorlaui.css?hjhkjkhh">
 </head>
 <body>
 	<div class="page">
 		<div class="page-content">
 			<div class="summary">
 				<div class="portrait">
-					<img src="img/pablo-img.jpg">
+					<img src="img/pablo-img.jpg?jhjkkhee">
 				</div>
 				<div class="summary-content">
 					<h1>Pablo Cazorla</h1>
@@ -50,6 +50,10 @@
 				<div class="partial2">
 					<h3>Experiencia</h3>
 					<ul class="item-list laboral">
+						<li>
+							<h4>Freelance (2015-Actualidad)</h4>
+							<p>Web UI designer desktop/mobile. Javascript/front-end developer.</p>
+						</li>
 						<li>
 							<h4>Globant (2014-2015)</h4>
 							<p>Web UI designer desktop/mobile. Javascript/front-end developer.</p>
